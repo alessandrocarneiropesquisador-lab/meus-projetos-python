@@ -1,0 +1,195 @@
+local_raw,nome_norm,codigo_ibge,nome,latitude,longitude,capital,codigo_uf,siafi_id,ddd,fuso_horario
+Orocó,oroco,2609808.0,Orocó,-8.61026,-39.6026,0.0,26.0,2495.0,87.0,America/Sao_Paulo
+Cabrobó,cabrobo,2603009.0,Cabrobó,-8.50548,-39.3094,0.0,26.0,2359.0,87.0,America/Sao_Paulo
+Ibó,ibo,,,,,,,,,
+Cabrobó,cabrobo,2603009.0,Cabrobó,-8.50548,-39.3094,0.0,26.0,2359.0,87.0,America/Sao_Paulo
+Belém do São Francisco,belem do sao francisco,2601607.0,Belém do São Francisco,-8.75046,-38.9623,0.0,26.0,2331.0,87.0,America/Sao_Paulo
+Jardim (região do Cariri),jardim (regiao do cariri),,,,,,,,,
+Alto Turiaçu,alto turiacu,,,,,,,,,
+Alto Rio Guamá (terras indígenas),alto rio guama (terras indigenas),,,,,,,,,
+Aparato geral - Pará,aparato geral - para,,,,,,,,,
+Petrolina,petrolina,2611101.0,Petrolina,-9.38866,-40.5027,0.0,26.0,2521.0,87.0,America/Sao_Paulo
+Floresta,floresta,4107900.0,Floresta,-23.6031,-52.0807,0.0,41.0,7555.0,44.0,America/Sao_Paulo
+Floresta,floresta,2605707.0,Floresta,-8.60307,-38.5687,0.0,26.0,2413.0,87.0,America/Sao_Paulo
+Cabrobó,cabrobo,2603009.0,Cabrobó,-8.50548,-39.3094,0.0,26.0,2359.0,87.0,America/Sao_Paulo
+Encontrado no km 402 da rodovia 020 em Caucaia. Droga veio de Belém/PA,encontrado no km 402 da rodovia 020 em caucaia. droga veio de belem/pa,,,,,,,,,
+Novo Airão,novo airao,1303205.0,Novo Airão,-2.63637,-60.9434,0.0,13.0,201.0,92.0,America/Porto_Velho
+Barcelos,barcelos,1300409.0,Barcelos,-0.983373,-62.9311,0.0,13.0,209.0,97.0,America/Porto_Velho
+Parauaopebas,parauaopebas,,,,,,,,,
+Barco próximo ao município de Novo Airão,barco proximo ao municipio de novo airao,,,,,,,,,
+Orocó/PE,oroco/pe,,,,,,,,,
+Triunfo/PE,triunfo/pe,,,,,,,,,
+Salgueiro/PE,salgueiro/pe,,,,,,,,,
+Cabrobó/PE,cabrobo/pe,,,,,,,,,
+Belém do São Francisco/PE,belem do sao francisco/pe,,,,,,,,,
+Betânia/PE,betania/pe,,,,,,,,,
+Flores/PE,flores/pe,,,,,,,,,
+Carnaubeira da Penha/PE,carnaubeira da penha/pe,,,,,,,,,
+Sertânia/PE,sertania/pe,,,,,,,,,
+Dormentes/PE (Ilhas do São Francisco),dormentes/pe (ilhas do sao francisco),,,,,,,,,
+Abaré,abare,2900207.0,Abaré,-8.72073,-39.1162,0.0,29.0,3303.0,75.0,America/Sao_Paulo
+Andorinha,andorinha,2901353.0,Andorinha,-10.3482,-39.8391,0.0,29.0,3255.0,74.0,America/Sao_Paulo
+Cabrobó/PE,cabrobo/pe,,,,,,,,,
+Campo Formoso,campo formoso,2906006.0,Campo Formoso,-10.5105,-40.32,0.0,29.0,3419.0,74.0,America/Sao_Paulo
+Casa Nova,casa nova,2907202.0,Casa Nova,-9.16408,-40.974,0.0,29.0,3443.0,74.0,America/Sao_Paulo
+Curaçá,curaca,2909901.0,Curaçá,-8.98458,-39.8997,0.0,29.0,3497.0,74.0,America/Sao_Paulo
+João Dourado,joao dourado,2918357.0,João Dourado,-11.3486,-41.6548,0.0,29.0,3099.0,74.0,America/Sao_Paulo
+Sento Sé,sento se,2930204.0,Sento Sé,-9.74138,-41.8786,0.0,29.0,3903.0,74.0,America/Sao_Paulo
+Xique-Xique.,xique-xique.,,,,,,,,,
+Monteiro,monteiro,2509701.0,Monteiro,-7.88363,-37.1184,0.0,25.0,2095.0,83.0,America/Sao_Paulo
+Canindeyú (departamento),canindeyu (departamento),,,,,,,,,
+Sem informações (Zona rural de Paraíba),sem informacoes (zona rural de paraiba),,,,,,,,,
+Salgueiro,salgueiro,2612208.0,Salgueiro,-8.07373,-39.1247,0.0,26.0,2543.0,87.0,America/Sao_Paulo
+Cabrobó,cabrobo,2603009.0,Cabrobó,-8.50548,-39.3094,0.0,26.0,2359.0,87.0,America/Sao_Paulo
+Orocó,oroco,2609808.0,Orocó,-8.61026,-39.6026,0.0,26.0,2495.0,87.0,America/Sao_Paulo
+Belém do São Francisco,belem do sao francisco,2601607.0,Belém do São Francisco,-8.75046,-38.9623,0.0,26.0,2331.0,87.0,America/Sao_Paulo
+Ibimirim e Serra Talhada,ibimirim e serra talhada,,,,,,,,,
+e Manaíra,e manaira,,,,,,,,,
+X,x,,,,,,,,,
+Pedro do Rosário,pedro do rosario,2108256.0,Pedro do Rosário,-2.97272,-45.3493,0.0,21.0,208.0,98.0,America/Sao_Paulo
+proximidades de Angico,proximidades de angico,,,,,,,,,
+Rio de Janeiro (Complexo da Maré),rio de janeiro (complexo da mare),,,,,,,,,
+Região do Alto Paranaíba (divisa entre Patrocínio,regiao do alto paranaiba (divisa entre patrocinio,,,,,,,,,
+Coromandel),coromandel),,,,,,,,,
+Uberlândia,uberlandia,3170206.0,Uberlândia,-18.9141,-48.2749,0.0,31.0,5403.0,34.0,America/Sao_Paulo
+Cascalho Rico,cascalho rico,3115003.0,Cascalho Rico,-18.5772,-47.8716,0.0,31.0,4299.0,34.0,America/Sao_Paulo
+Entre Curaçá,entre curaca,,,,,,,,,
+Abaré,abare,2900207.0,Abaré,-8.72073,-39.1162,0.0,29.0,3303.0,75.0,America/Sao_Paulo
+Salgueiro,salgueiro,2612208.0,Salgueiro,-8.07373,-39.1247,0.0,26.0,2543.0,87.0,America/Sao_Paulo
+Cabrobó,cabrobo,2603009.0,Cabrobó,-8.50548,-39.3094,0.0,26.0,2359.0,87.0,America/Sao_Paulo
+Orocó,oroco,2609808.0,Orocó,-8.61026,-39.6026,0.0,26.0,2495.0,87.0,America/Sao_Paulo
+Belém do São Francisco,belem do sao francisco,2601607.0,Belém do São Francisco,-8.75046,-38.9623,0.0,26.0,2331.0,87.0,America/Sao_Paulo
+Ibimirim,ibimirim,2606606.0,Ibimirim,-8.54026,-37.7032,0.0,26.0,2431.0,87.0,America/Sao_Paulo
+Serra Talhada (PE),serra talhada (pe),,,,,,,,,
+Manaíra (PB),manaira (pb),,,,,,,,,
+localidades do Piauí,localidades do piaui,,,,,,,,,
+Garrafão do Norte,garrafao do norte,1503077.0,Garrafão do Norte,-1.92986,-47.0505,0.0,15.0,585.0,91.0,America/Sao_Paulo
+Cachoeira do Piriá,cachoeira do piria,1501956.0,Cachoeira do Piriá,-1.75974,-46.5459,0.0,15.0,46.0,91.0,America/Sao_Paulo
+Capitão Poço,capitao poco,1502301.0,Capitão Poço,-1.74785,-47.0629,0.0,15.0,445.0,91.0,America/Sao_Paulo
+Concórdia do Pará,concordia do para,1502756.0,Concórdia do Pará,-1.99238,-47.9422,0.0,15.0,579.0,91.0,America/Sao_Paulo
+Nova Esperança do Piriá,nova esperanca do piria,1504950.0,Nova Esperança do Piriá,-2.26693,-46.9731,0.0,15.0,391.0,91.0,America/Sao_Paulo
+próximos à Terra Indígena Alto Rio Guamá (TIARG),proximos a terra indigena alto rio guama (tiarg),,,,,,,,,
+Brotas de Macaúbas (Povoado de Queimadas),brotas de macaubas (povoado de queimadas),,,,,,,,,
+Curaçá (povoado de Cajueiro),curaca (povoado de cajueiro),,,,,,,,,
+Nova Orlinda do Norte,nova orlinda do norte,,,,,,,,,
+Maués,maues,1302900.0,Maués,-3.39289,-57.7067,0.0,13.0,261.0,92.0,America/Porto_Velho
+Tangará da Serra (assentamento Antônio Conselheiro),tangara da serra (assentamento antonio conselheiro),,,,,,,,,
+Camalaú (Cariri da Paraíba),camalau (cariri da paraiba),,,,,,,,,
+Juazeiro (distrito de Maniçoba),juazeiro (distrito de manicoba),,,,,,,,,
+Curaçá (ilha próxima à localidade de Missão Velha),curaca (ilha proxima a localidade de missao velha),,,,,,,,,
+Curaçá (Missão Velho),curaca (missao velho),,,,,,,,,
+Viseu (distrito de Santo Antônio do Gurupi),viseu (distrito de santo antonio do gurupi),,,,,,,,,
+Entre Barro Alto,entre barro alto,,,,,,,,,
+Souto Soares,souto soares,2930808.0,Souto Soares,-12.088,-41.6427,0.0,29.0,3915.0,75.0,America/Sao_Paulo
+Entre os municípios de Mulungu,entre os municipios de mulungu,,,,,,,,,
+Pacoti,pacoti,2309805.0,Pacoti,-4.22492,-38.922,0.0,23.0,1497.0,85.0,America/Sao_Paulo
+Entre os municípios de Mulungu,entre os municipios de mulungu,,,,,,,,,
+Pacoti,pacoti,2309805.0,Pacoti,-4.22492,-38.922,0.0,23.0,1497.0,85.0,America/Sao_Paulo
+Santa Helena (povoado Mundico),santa helena (povoado mundico),,,,,,,,,
+Região do cariri,regiao do cariri,,,,,,,,,
+Orocó,oroco,2609808.0,Orocó,-8.61026,-39.6026,0.0,26.0,2495.0,87.0,America/Sao_Paulo
+Salgueiro,salgueiro,2612208.0,Salgueiro,-8.07373,-39.1247,0.0,26.0,2543.0,87.0,America/Sao_Paulo
+Cabrobó,cabrobo,2603009.0,Cabrobó,-8.50548,-39.3094,0.0,26.0,2359.0,87.0,America/Sao_Paulo
+Belém do São Francisco,belem do sao francisco,2601607.0,Belém do São Francisco,-8.75046,-38.9623,0.0,26.0,2331.0,87.0,America/Sao_Paulo
+Betânia,betania,2601805.0,Betânia,-8.26787,-38.0345,0.0,26.0,2335.0,87.0,America/Sao_Paulo
+Flores,flores,2605608.0,Flores,-7.85842,-37.9715,0.0,26.0,2411.0,87.0,America/Sao_Paulo
+Carnaubeira da Penha,carnaubeira da penha,2603926.0,Carnaubeira da Penha,-8.31799,-38.7512,0.0,26.0,2635.0,87.0,America/Sao_Paulo
+Parnamirim,parnamirim,2403251.0,Parnamirim,-5.91116,-35.271,0.0,24.0,1779.0,84.0,America/Sao_Paulo
+Parnamirim,parnamirim,2610400.0,Parnamirim,-8.08729,-39.5795,0.0,26.0,2507.0,87.0,America/Sao_Paulo
+Aparato geral - Pernambuco,aparato geral - pernambuco,,,,,,,,,
+Aparato geral - Pernambuco,aparato geral - pernambuco,,,,,,,,,
+Orocó,oroco,2609808.0,Orocó,-8.61026,-39.6026,0.0,26.0,2495.0,87.0,America/Sao_Paulo
+Salgueiro,salgueiro,2612208.0,Salgueiro,-8.07373,-39.1247,0.0,26.0,2543.0,87.0,America/Sao_Paulo
+Cabrobó,cabrobo,2603009.0,Cabrobó,-8.50548,-39.3094,0.0,26.0,2359.0,87.0,America/Sao_Paulo
+Belém do São Francisco,belem do sao francisco,2601607.0,Belém do São Francisco,-8.75046,-38.9623,0.0,26.0,2331.0,87.0,America/Sao_Paulo
+Betânia,betania,2601805.0,Betânia,-8.26787,-38.0345,0.0,26.0,2335.0,87.0,America/Sao_Paulo
+Flores,flores,2605608.0,Flores,-7.85842,-37.9715,0.0,26.0,2411.0,87.0,America/Sao_Paulo
+Carnaubeira da Penha,carnaubeira da penha,2603926.0,Carnaubeira da Penha,-8.31799,-38.7512,0.0,26.0,2635.0,87.0,America/Sao_Paulo
+Parnamirim,parnamirim,2403251.0,Parnamirim,-5.91116,-35.271,0.0,24.0,1779.0,84.0,America/Sao_Paulo
+Parnamirim,parnamirim,2610400.0,Parnamirim,-8.08729,-39.5795,0.0,26.0,2507.0,87.0,America/Sao_Paulo
+DF - Ceilândia,df - ceilandia,,,,,,,,,
+Aparato geral - Pernambuco,aparato geral - pernambuco,,,,,,,,,
+Aparato geral - Pará,aparato geral - para,,,,,,,,,
+Aparato geral - Pará,aparato geral - para,,,,,,,,,
+regiões da Bahia,regioes da bahia,,,,,,,,,
+Pernambuco,pernambuco,,,,,,,,,
+Maranhão,maranhao,,,,,,,,,
+Pará,para,,,,,,,,,
+Amazônia,amazonia,,,,,,,,,
+regiões da Bahia,regioes da bahia,,,,,,,,,
+Pernambuco,pernambuco,,,,,,,,,
+Maranhão,maranhao,,,,,,,,,
+Pará,para,,,,,,,,,
+Amazônia,amazonia,,,,,,,,,
+Aparato geral - Bahia,aparato geral - bahia,,,,,,,,,
+Aparato geral - Bahia,aparato geral - bahia,,,,,,,,,
+Aparato geral - Brasil,aparato geral - brasil,,,,,,,,,
+Aparato geral - Pernambuco,aparato geral - pernambuco,,,,,,,,,
+Abaré,abare,2900207.0,Abaré,-8.72073,-39.1162,0.0,29.0,3303.0,75.0,America/Sao_Paulo
+Juazeiro,juazeiro,2918407.0,Juazeiro,-9.41622,-40.5033,0.0,29.0,3669.0,74.0,America/Sao_Paulo
+nan,nan,,,,,,,,,
+Buriticupu,buriticupu,2102325.0,Buriticupu,-4.32375,-46.4409,0.0,21.0,134.0,98.0,America/Sao_Paulo
+Alto Alegre do Pindaré,alto alegre do pindare,2100477.0,Alto Alegre do Pindaré,-3.66689,-45.8421,0.0,21.0,108.0,98.0,America/Sao_Paulo
+Maracaçumé,maracacume,2106326.0,Maracaçumé,-2.04918,-45.9587,0.0,21.0,190.0,98.0,America/Sao_Paulo
+Centro do Guilherme,centro do guilherme,2103158.0,Centro do Guilherme,-2.44891,-46.0345,0.0,21.0,146.0,98.0,America/Sao_Paulo
+Centro Novo do Maranhão,centro novo do maranhao,2103174.0,Centro Novo do Maranhão,-2.12696,-46.1228,0.0,21.0,148.0,98.0,America/Sao_Paulo
+Cachoeira do Piriá,cachoeira do piria,1501956.0,Cachoeira do Piriá,-1.75974,-46.5459,0.0,15.0,46.0,91.0,America/Sao_Paulo
+Ilhas do Rio São Francisco,ilhas do rio sao francisco,,,,,,,,,
+na Região de Orocó,na regiao de oroco,,,,,,,,,
+Cabrobó,cabrobo,2603009.0,Cabrobó,-8.50548,-39.3094,0.0,26.0,2359.0,87.0,America/Sao_Paulo
+Belém do São Francisco,belem do sao francisco,2601607.0,Belém do São Francisco,-8.75046,-38.9623,0.0,26.0,2331.0,87.0,America/Sao_Paulo
+Santa Maria da Boa Vista.,santa maria da boa vista.,,,,,,,,,
+Além disso,alem disso,,,,,,,,,
+a PF também esteve presente em áreas de caatinga em Salgueiro,a pf tambem esteve presente em areas de caatinga em salgueiro,,,,,,,,,
+Carnaubeira da Penha,carnaubeira da penha,2603926.0,Carnaubeira da Penha,-8.31799,-38.7512,0.0,26.0,2635.0,87.0,America/Sao_Paulo
+Serra Talhada,serra talhada,2613909.0,Serra Talhada,-7.98178,-38.289,0.0,26.0,2577.0,87.0,America/Sao_Paulo
+Betânia,betania,2601805.0,Betânia,-8.26787,-38.0345,0.0,26.0,2335.0,87.0,America/Sao_Paulo
+Parnamirim,parnamirim,2403251.0,Parnamirim,-5.91116,-35.271,0.0,24.0,1779.0,84.0,America/Sao_Paulo
+Parnamirim,parnamirim,2610400.0,Parnamirim,-8.08729,-39.5795,0.0,26.0,2507.0,87.0,America/Sao_Paulo
+Ibó,ibo,,,,,,,,,
+Floresta,floresta,4107900.0,Floresta,-23.6031,-52.0807,0.0,41.0,7555.0,44.0,America/Sao_Paulo
+Floresta,floresta,2605707.0,Floresta,-8.60307,-38.5687,0.0,26.0,2413.0,87.0,America/Sao_Paulo
+São Pedro da Aldeia (Cabo Frio),sao pedro da aldeia (cabo frio),,,,,,,,,
+Lagoa Grande,lagoa grande,3137536.0,Lagoa Grande,-17.8323,-46.5165,0.0,31.0,2905.0,34.0,America/Sao_Paulo
+Lagoa Grande,lagoa grande,2608750.0,Lagoa Grande,-8.99452,-40.2767,0.0,26.0,552.0,87.0,America/Sao_Paulo
+Dormentes,dormentes,2605152.0,Dormentes,-8.44116,-40.7662,0.0,26.0,2299.0,87.0,America/Sao_Paulo
+Orocó,oroco,2609808.0,Orocó,-8.61026,-39.6026,0.0,26.0,2495.0,87.0,America/Sao_Paulo
+Carnaubeira da Penha,carnaubeira da penha,2603926.0,Carnaubeira da Penha,-8.31799,-38.7512,0.0,26.0,2635.0,87.0,America/Sao_Paulo
+Principalmente Salgueiro,principalmente salgueiro,,,,,,,,,
+Cabrobó,cabrobo,2603009.0,Cabrobó,-8.50548,-39.3094,0.0,26.0,2359.0,87.0,America/Sao_Paulo
+Sertânia,sertania,2614105.0,Sertânia,-8.06847,-37.2684,0.0,26.0,2581.0,87.0,America/Sao_Paulo
+Floresta,floresta,4107900.0,Floresta,-23.6031,-52.0807,0.0,41.0,7555.0,44.0,America/Sao_Paulo
+Floresta,floresta,2605707.0,Floresta,-8.60307,-38.5687,0.0,26.0,2413.0,87.0,America/Sao_Paulo
+Belém de São Francisco,belem de sao francisco,,,,,,,,,
+Afogados da Ingazeira,afogados da ingazeira,2600104.0,Afogados da Ingazeira,-7.74312,-37.631,0.0,26.0,2301.0,87.0,America/Sao_Paulo
+Cabrobó,cabrobo,2603009.0,Cabrobó,-8.50548,-39.3094,0.0,26.0,2359.0,87.0,America/Sao_Paulo
+Belém de São Francisco,belem de sao francisco,,,,,,,,,
+Entre Tacuru,entre tacuru,,,,,,,,,
+Iguatemi,iguatemi,5004304.0,Iguatemi,-23.6736,-54.5637,0.0,50.0,9085.0,67.0,America/Porto_Velho
+Rio Japurá (chamado Caquetá na Colômbia),rio japura (chamado caqueta na colombia),,,,,,,,,
+X,x,,,,,,,,,
+X,x,,,,,,,,,
+Aparato geral - Amazonas,aparato geral - amazonas,,,,,,,,,
+Aparato geral - Amazonas,aparato geral - amazonas,,,,,,,,,
+Aparato geral - Amazonas,aparato geral - amazonas,,,,,,,,,
+Entre Santa Helena,entre santa helena,,,,,,,,,
+Mirinzal,mirinzal,2106805.0,Mirinzal,-2.07094,-44.7787,0.0,21.0,835.0,98.0,America/Sao_Paulo
+Entre as cidades de Benedito Leite,entre as cidades de benedito leite,,,,,,,,,
+São Domingos do Azeitão,sao domingos do azeitao,2110658.0,São Domingos do Azeitão,-6.81471,-44.6509,0.0,21.0,228.0,99.0,America/Sao_Paulo
+Conceição do Lago Açu,conceicao do lago acu,,,,,,,,,
+Santo Amaro,santo amaro,2928604.0,Santo Amaro,-12.5472,-38.7137,0.0,29.0,3871.0,75.0,America/Sao_Paulo
+nan,nan,,,,,,,,,
+nan,nan,,,,,,,,,
+nan,nan,,,,,,,,,
+Ilhas do Rio São Francisco,ilhas do rio sao francisco,,,,,,,,,
+nas regiões de Orocó,nas regioes de oroco,,,,,,,,,
+Cabrobó,cabrobo,2603009.0,Cabrobó,-8.50548,-39.3094,0.0,26.0,2359.0,87.0,America/Sao_Paulo
+Belém do São Francisco,belem do sao francisco,2601607.0,Belém do São Francisco,-8.75046,-38.9623,0.0,26.0,2331.0,87.0,America/Sao_Paulo
+Santa Maria da Boa Vista,santa maria da boa vista,2612604.0,Santa Maria da Boa Vista,-8.79766,-39.8241,0.0,26.0,2551.0,87.0,America/Sao_Paulo
+nas áreas de caatinga em Salgueiro,nas areas de caatinga em salgueiro,,,,,,,,,
+Carnaubeira da Penha,carnaubeira da penha,2603926.0,Carnaubeira da Penha,-8.31799,-38.7512,0.0,26.0,2635.0,87.0,America/Sao_Paulo
+Serra Talhada,serra talhada,2613909.0,Serra Talhada,-7.98178,-38.289,0.0,26.0,2577.0,87.0,America/Sao_Paulo
+Betânia,betania,2601805.0,Betânia,-8.26787,-38.0345,0.0,26.0,2335.0,87.0,America/Sao_Paulo
+Floresta.,floresta.,,,,,,,,,
+Caraúba,carauba,,,,,,,,,
+Circunscrição de Salgueiro,circunscricao de salgueiro,,,,,,,,,
